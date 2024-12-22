@@ -11,7 +11,7 @@ export default function Index() {
       }}
     >
       <Text className={"text-3xl text-red-500 font-rubik-bold"}>
-        Weclome Essam
+        Weclome Seif Essam
       </Text>
       <Link href={"/sign-in"}>Sign In Now</Link>
     </View>
